@@ -1,0 +1,2 @@
+# StyleSmart_E-commerce-Product-Recomrnded-System
+SmartStyle is an AI-powered e-commerce product recommendation platform that delivers personalized product suggestions based on user behavior, preferences, browsing history, and purchase patterns. The system leverages machine learning algorithms to enhance experience, improve product discovery, and increase sales through intelligent recommendations.
